@@ -4,7 +4,7 @@ This repo is my journey to complete the "The Java Design Patterns Course" course
              
 In this repo you can find:
 * Code examples for each design pattern.
-* Word file Called "The Java Design Patterns Course- Summary in Hebrew" (my summary for the course) that contain:
+* PDF file Called "The Java Design Patterns Course- Summary in Hebrew" (my summary for the course) that contain:
   * The importance of knowing the patterns of the 'Gang of Four'.
   * Explanation, additional example, and class diagram for each DP.
   * A complete overview of the 9 principles of OOD.
